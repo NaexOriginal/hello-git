@@ -1,0 +1,1 @@
+print("Esot es una practica propia desde otro PC")
